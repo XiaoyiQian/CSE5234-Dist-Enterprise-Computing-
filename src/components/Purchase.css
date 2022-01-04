@@ -1,11 +1,19 @@
 .purchase button {
-    background: #f1356d;
-    color: #fff;
-    border: 0;
-    padding: 8px;
+    /* background: hsl(342, 87%, 58%);
+    color: #fff; */
+    /* border: 0; */
+    /* padding: 8px; */
     border-radius: 8px;
     cursor: pointer;
     /* margin-left: 70%; */
+  }
+   body{
+     overflow-x: hidden;
+   }
+  .card-img-top{
+    width: 300px;
+    height: 400px;
+    object-fit: contain;
   }
 
   
